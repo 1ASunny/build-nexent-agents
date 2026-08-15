@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Nexent Agents"
+  short_description: "复用 Nexent Agent 开发、排障、验收与发布经验"
+  default_prompt: "Use $build-nexent-agents to plan, implement, troubleshoot, validate, and release a reliable Nexent Agent."
